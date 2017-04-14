@@ -1,4 +1,4 @@
 Twitter-Bot
 ===========
 
-A Twitter bot
+A simple Twitter bot designed to auto follow and post to Twitter users. 
